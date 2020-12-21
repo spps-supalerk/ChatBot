@@ -8,7 +8,7 @@ Python scripts will be used to create Chatbot question answering.</br>
 </br>
 
 ## Work flow
-![alt text](https://github.com/spps-supalerk/ChatBot/blob/branch/chatbot_workflow.png?raw=true)
+![alt text](https://github.com/spps-supalerk/ChatBot/blob/main/chatbot_workflow.png?raw=true)
 </br>
 <b> list of topics in this repo are list below </b></br>
 
